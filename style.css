@@ -22,7 +22,6 @@ body {
     flex-direction: column;
     justify-content: center;
     border-radius: 20px 20px 5px 5px;
-    /* border */
     background-image: linear-gradient(#0e271a, #294e30, #4e7843);
     padding: 0px 10px 10px 10px;
     box-shadow: 20px 20px 15px #000000;
@@ -74,10 +73,10 @@ body {
 }
 
 .controller button {
-    padding: 15px;
+    padding: 5px;
     margin: 15px;
     color: #c3f9ff;
-    font-size: 1.3rem;
+    font-size: 2rem;
     font-weight: 500;
     width: 20%;
     background-image: linear-gradient(#0e271a, #294e30, #4e7843);
